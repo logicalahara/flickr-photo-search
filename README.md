@@ -1,2 +1,1 @@
-# mutual-mobile-task
-Flickr API React Native Assignment 
+# Flickr API React Native Assignment
